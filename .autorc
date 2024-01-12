@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "jaydenchan1027",
+  "repo": "container-ucwtjbq",
+  "name": "jaydenchan1027",
+  "email": "jaydenchan1027@Outlook.com",
+}
